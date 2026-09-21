@@ -1,3 +1,14 @@
-# Subduction_CarbonatiticDeposit
+<img width="389" height="39" alt="image" src="https://github.com/user-attachments/assets/ddd58f15-ac73-441b-b5ab-703ee95bd5e8" /># Subduction_CarbonatiticDeposit
 Reconstructed distances of magmatic occurrences and deposits to subduction trenches, and of subduction trenches to cratonic margins. This project includes code and results, used in "Deep subduction enhances carbonatitic magmatism and metal enrichment at cratonic margins". Data 1.1–1.4 report the ages, locations, and reconstructed distances to the nearest contemporaneous subduction trench for carbonatites, kimberlites, magmatic REE deposits associated with alkaline igneous rocks or carbonatites, and magmatic sulfide deposits, respectively. Where available, plate IDs and reconstructed paleocoordinates are also provided. The carbonatite worksheet additionally reports the mean, standard deviation, and number of εNd(t) measurements, whereas the kimberlite worksheet lists individual εNd(t) values. Data 1.5 reports the reconstructed distance from each subduction-trench segment to the nearest contemporaneous craton margin, using craton geometries reconstructed at 10-Myr intervals from 1800 Ma to the present.
 If you have any questions, including about using GPlate and the raw dataset, please contact me (Guozhi.Xie@anu.edu.au; xieguozhi@qdio.ac.cn).
+
+
+References:
+Orris GJ, Seo Y, Briggs DA, et al. Global rare earth element occurrence database. US Geological Survey (USGS) Data Release, 2018, 242
+Woodhead, J., Hergt, J., Giuliani, A., Maas, R., Phillips, D., Pearson, D.G., Nowell, G., 2019. Kimberlites reveal 2.5-billion-year evolution of a deep, isolated mantle reservoir. Nature 573, 578-581.
+Merdith, A.S., Williams, S.E., Collins, A.S., Tetley, M.G., Mulder, J.A., Blades, M.L., Young, A., Armistead, S.E., Cannon, J., Zahirovic, S., Müller, R.D., 2021. Extending full-plate tectonic models into deep time: Linking the Neoproterozoic and the Phanerozoic. Earth-Science Reviews 214, 103477.
+Müller, R.D., Flament, N., Cannon, J., Tetley, M.G., Williams, S.E., Cao, X., Bodur, Ö.F., Zahirovic, S., Merdith, A., 2022. A tectonic-rules-based mantle reference frame since 1 billion years ago – implications for supercontinent cycles and plate–mantle system evolution. Solid Earth 13, 1127-1159.
+Yaxley, G.M., Anenburg, M., Tappe, S., Decree, S., Guzmics, T., 2022. Carbonatites: Classification, Sources, Evolution, and Emplacement. Annual Review of Earth and Planetary Sciences 50, 261-293.
+Liu, S.-L., Ma, L., Zou, X., Fang, L., Qin, B., Melnik, A.E., Kirscher, U., Yang, K.-F., Fan, H.-R., Mitchell, R.N., 2022. Trends and rhythms in carbonatites and kimberlites reflect thermo-tectonic evolution of Earth. Geology 51, 101-105.
+Cao, X., Collins, A.S., Pisarevsky, S., Flament, N., Li, S., Hasterok, D., Müller, R.D., 2024. Earth’s tectonic and plate boundary evolution over 1.8 billion years. Geoscience Frontiers 15, 101922.
+Chen, C., Förster, M.W., Shcheka, S.S., Ezad, I.S., Shea, J.J., Liu, Y., Jacob, D.E., Foley, S.F., 2025. Sulfide-rich continental roots at cratonic margins formed by carbonated melts. Nature 637, 615-621.
